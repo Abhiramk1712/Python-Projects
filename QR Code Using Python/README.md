@@ -6,9 +6,9 @@
 
 4. You can easily install both of these modules by executing the commands mentioned below in your command prompt or terminal:
 
-=> pip install PyQRCode
+     => pip install PyQRCode
 
-=> pip install pypng
+     => pip install pypng
 
 5. After installing these modules, you can start writing a program to create a QR code using Python.
 
