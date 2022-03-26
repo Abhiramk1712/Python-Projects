@@ -7,4 +7,5 @@ There are so many libraries, frameworks, and tools that are used for the task of
 - BeautifulSoup
 - Urlib.request
 All of the above Python libraries and modules are great for scraping data from websites. After scraping the data, the data is prepared so that it can be stored in a CSV file to create a dataset.
+
 -> All of the above Python libraries and modules are great for scraping data from websites. After scraping the data, the data is prepared so that it can be stored in a CSV file to create a dataset.
