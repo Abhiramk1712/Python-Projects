@@ -5,3 +5,8 @@
 - Bitly API - (Bitly is a URL shortening service and a link management platform. It allows you to track the clicks with various information about the clicks)
 - Cuttly API 
 
+-> If you read the Bitly API documentation carefully, you'll see that we need an access token to make API calls to get the shortened URL
+- https://dev.bitly.com/api-reference
+
+OUTPUT:- 
+Shortened URL:  https://bit.ly/3IYYBmX
